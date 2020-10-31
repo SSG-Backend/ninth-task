@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-project-structure",
+  "version": "1.0.0",
+  "description": "Nodejs project structure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abeeb Ayinla",
+  "license": "ISC"
+}
